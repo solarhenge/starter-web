@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jordan Machan   jordan.machan@gmail.com
 
 # THANKS
 
